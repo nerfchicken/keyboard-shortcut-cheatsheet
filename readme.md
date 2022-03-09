@@ -1,6 +1,6 @@
 # My keyboard commands  
 
-In case I lose my 
+In case I lose my post it notes.
 
 ## Mac OS  
 | Syntax | Description |
@@ -21,3 +21,6 @@ In case I lose my
 | --- | --- |
 | CTRL + SHIFT + ~ | Open Terminal |
 | CMD + OPTION + Shift | MultiCursor |
+
+## Bash
+https://github.com/fliptheweb/bash-shortcuts-cheat-sheet
