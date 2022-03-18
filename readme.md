@@ -7,7 +7,7 @@ In case I lose my post it notes.
 | --- | --- |  
 | CMD + CTRL + F | Leave full screen |
 | CMD Shift + . | Show Hidden Files | 
-
+| CMD + spacebar | Search |
 
 ### Screenshots  
 | Syntax | Description |
@@ -21,6 +21,12 @@ In case I lose my post it notes.
 | --- | --- |
 | CTRL + SHIFT + ~ | Open Terminal |
 | CMD + OPTION + Shift | MultiCursor |
+
+## Teams  
+| Syntax | Description |
+| --- | --- |
+| CTRL + Shift + M | Toggle Microphone |
+| CTRL + Shift + O | Toggle Camera |
 
 ## Bash
 https://github.com/fliptheweb/bash-shortcuts-cheat-sheet
